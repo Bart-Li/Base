@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>XAEC</Authors>
+    <Company>XAEC</Company>
+    <Product>XAEC</Product>
+    <Copyright>Copyright 2017</Copyright>
+    <Description>Zookeeper client</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Newegg.EC.DataAccess.Extension</AssemblyName>
+    <RootNamespace>Newegg.EC.DataAccess.Extension</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>XAEC</Authors>
+    <Company>XAEC</Company>
+    <Product>XAEC</Product>
+    <Description>Support MySql data access</Description>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="6.10.6" />
+  </ItemGroup>
+
+</Project>
