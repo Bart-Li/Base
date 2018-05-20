@@ -1,4 +1,4 @@
-﻿namespace Newegg.EC.Core.Log
+﻿namespace Newegg.EC.Core.Logger
 {
     public enum LogLevel
     {

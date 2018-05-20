@@ -4,7 +4,7 @@ using System.Linq;
 using Newegg.EC.Core.Serialization;
 using NLog;
 
-namespace Newegg.EC.Core.Log.Impl
+namespace Newegg.EC.Core.Logger.Impl
 {
     [AutoSetupService(typeof(ILogManager), LifeTime = ServiceLifeTime.Transient)]
     public class DefaultLogManager : ILogManager

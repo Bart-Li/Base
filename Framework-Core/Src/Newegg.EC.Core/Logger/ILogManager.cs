@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Newegg.EC.Core.Log
+namespace Newegg.EC.Core.Logger
 {
     /// <summary>
     /// Logger mananger.
